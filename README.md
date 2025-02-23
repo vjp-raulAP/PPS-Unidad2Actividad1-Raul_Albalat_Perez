@@ -84,7 +84,7 @@ Poniendonos encima del cursor podemos ver los valores de las métricas usadas pa
 
 
 ---
-Tambien podemos ver la **Enumeración de debilidades**  en la que podemos ver la [CWE-425](https://cwe.mitre.org/data/definitions/425.html) donde podemos observar más informacion 
+Tambien podemos ver la **Enumeración de debilidades**  en la que podemos ver la [CWE-425](https://cwe.mitre.org/data/definitions/425.html) y observamos más informacion 
 
 ![](imagenes/imagen5.png)
 
@@ -97,11 +97,11 @@ Esta debilidad describe la falta de control sobre los recursos del sistema, que 
 Nos dice que  La aplicación web no aplica adecuadamente la autorización adecuada en todas las URL, secuencias de comandos o archivos restringidos.
 posibles mitigaciones.
 
-Fases: Arquitectura y Diseño; Operación
-Aplique las autorizaciones de control de acceso adecuadas para cada acceso a todas las URL, scripts o archivos restringidos.
+**Fases: Arquitectura y Diseño; Operación**
+- Aplique las autorizaciones de control de acceso adecuadas para cada acceso a todas las URL, scripts o archivos restringidos.
 
-Fase: Arquitectura y Diseño
-Considere la posibilidad de utilizar marcos basados ​​en MVC, como Struts.
+**Fase: Arquitectura y Diseño**
+- Considere la posibilidad de utilizar marcos basados ​​en MVC, como Struts.
 
 ![](imagenes/imagen6.png)
 
@@ -109,7 +109,7 @@ Tambien podemos ver las relaciones entre ésta y otras debilidades.
 
 ![](imagenes/imagen7.png)
 
-Podemos observar que esta debilidadad es hija de la CWE-288 , LA CWE-424 Y LA CWE-862
+Podemos observar que esta debilidadad es hija de la **CWE-288 , LA CWE-424 Y LA CWE-862**
 
 ![](imagenes/imagen8.png)
 
