@@ -1,6 +1,6 @@
-# PPS-Unidad2Actividad1-Raul_Albalat_Perez
+# PPS-Unidad2Actividad1-Raul_Albalat_Perez 
 
-# Trazado de vulnerabilidad segun [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra)__
+# Trazado de vulnerabilidad segun [este artículo](https://www.incibe.es/empresas/avisos/vulnerabilidad-critica-de-omision-de-autenticacion-en-goanywhere-mft-de-fortra).
 
 ![](imagenes/imagen1.png)
 
