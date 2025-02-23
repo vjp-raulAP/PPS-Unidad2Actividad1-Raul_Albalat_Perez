@@ -30,7 +30,7 @@ Con toda lo información recogida de ambos enlaces. Procedemos a realizar el tra
 Para ver la información sobre dicha vulnerabilidad a las siguientes fuentes.
 
 1. **CVE-2024-0204 en CVE.org**:  
-   [CVE-2024-0204 - cve.org](https://cve.org/CVE-2024-0204)
+   [CVE-2024-0204 - cve.org](https://www.cve.org/CVERecord?id=CVE-2024-0204)
 
 2. **Base de datos de vulnerabilidades (NVD)**:  
    [CVE-2024-0204 en NIST:NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-0204)
@@ -144,12 +144,21 @@ Un adversario busca en un sitio web de destino páginas web que no se han public
 
 ---
 
-## Registro CVE
+## Descarga del Registro CVE de la vulnerabilidad
 
-El registro de CVE contiene información estandarizada sobre esta vulnerabilidad. Esta información puede ser utilizada por herramientas de seguridad para análisis automatizado.
 
-- **Formato de registro CVE**: XML/JSON
-- **Acceso a la información**: [CVE Record - CVE-2024-0204 en cve.org](https://cve.org/CVE-2024-0204)
+
+El registro de CVE contiene información estandarizada sobre esta vulnerabilidad. Esta información puede ser utilizada por herramientas de seguridad para análisis automatizado de la información.
+Podemos descargarla o acceder a su información, desde la página de cve.org dándole al enlace View JSON
+
+
+![](imagenes/imagen12.png)
+
+Podemos ver más información en el **JSON**
+
+![](imagenes/imagen13.png)
+
+- **Acceso a la información**: [CVE Record - CVE-2024-0204 en cve.org](https://cveawg.mitre.org/api/cve/CVE-2024-0204)
 
 ---
 
