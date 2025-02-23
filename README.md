@@ -152,7 +152,7 @@ El registro de CVE contiene información estandarizada sobre esta vulnerabilidad
 Podemos descargarla o acceder a su información, desde la página de cve.org dándole al enlace View JSON
 
 
-![](imagenes/imagen12.png)
+![](imagenes/imagen12-.png)
 
 Podemos ver más información en el **JSON**
 
