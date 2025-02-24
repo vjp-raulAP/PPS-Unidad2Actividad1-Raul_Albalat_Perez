@@ -27,7 +27,7 @@ Con toda lo información recogida de ambos enlaces. Procedemos a realizar el tra
 
 ## Fuentes de Información
 
-Para ver la información sobre dicha vulnerabilidad a las siguientes fuentes.
+Para ver la información sobre dicha vulnerabilidad podemos consultar siguientes fuentes.
 
 1. **CVE-2024-0204 en CVE.org**:  
    [CVE-2024-0204 - cve.org](https://www.cve.org/CVERecord?id=CVE-2024-0204)
@@ -52,7 +52,7 @@ Desde la [entrada correspondiente a NIST:NVD](https://nvd.nist.gov/vuln/detail/C
 La vulnerabilidad **CVE-2024-0204** en **GoAnywhere MFT** permite a los atacantes remotos ejecutar **código arbitrario** sin necesidad de autenticación previa. Esto puede ser explotado para obtener **acceso no autorizado** a los datos y sistemas, lo que representa un **riesgo grave** para la confidencialidad, integridad y disponibilidad de la infraestructura afectada.
 
 
-Poniendonos encima del cursor podemos ver los valores de las métricas usadas para el cálculo.
+Poniendonos encima del cursor podemos ver los valores de las **métricas** usadas para el cálculo.
 
 ![](imagenes/imagen4.png)
 
@@ -84,7 +84,7 @@ Poniendonos encima del cursor podemos ver los valores de las métricas usadas pa
 
 
 ---
-Tambien podemos ver la **Enumeración de debilidades**  en la que podemos ver la [CWE-425](https://cwe.mitre.org/data/definitions/425.html) y observamos más informacion 
+Tambien podemos ver en la misma página la **Enumeración de debilidades**. Nos aparece la [CWE-425](https://cwe.mitre.org/data/definitions/425.html) y si pinchos en ella nos redirige a la pagina de **Common Weakness Enumeration** donde nos muestra mas informacion detallada de esta debilidad.  
 
 ![](imagenes/imagen5.png)
 
@@ -97,11 +97,11 @@ Esta debilidad describe la falta de control sobre los recursos del sistema, que 
 Nos dice que  La aplicación web no aplica adecuadamente la autorización adecuada en todas las URL, secuencias de comandos o archivos restringidos.
 posibles mitigaciones.
 
-**Fases: Arquitectura y Diseño; Operación**
-- Aplique las autorizaciones de control de acceso adecuadas para cada acceso a todas las URL, scripts o archivos restringidos.
+   > **Fases: Arquitectura y Diseño; Operación**
+    - Aplique las autorizaciones de control de acceso adecuadas para cada acceso a todas las URL, scripts o archivos restringidos.
 
-**Fase: Arquitectura y Diseño**
-- Considere la posibilidad de utilizar marcos basados ​​en MVC, como Struts.
+   > **Fase: Arquitectura y Diseño**
+    - Considere la posibilidad de utilizar marcos basados ​​en MVC, como Struts.
 
 ![](imagenes/imagen6.png)
 
